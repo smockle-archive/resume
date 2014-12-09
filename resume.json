@@ -1,0 +1,118 @@
+{
+  "basics": {
+    "name": "Clay Miller",
+    "label": "Full Stack Developer",
+    "picture": "http://www.gravatar.com/avatar/08e44425150feee3130148daac403f15.jpg?s=512",
+    "email": "clay@smockle.com",
+    "website": "http://www.smockle.com",
+    "summary": "Building the Internet–also hammocking, pulling shots of espresso, jamming to indie folk, critiquing postmodern literature and occasionally jogging. Someday I hope to speak at conferences and write web standards. I love creating with new technologies and with smart teams.",
+    "location": {
+      "city": "Auburn",
+      "countryCode": "US",
+      "region": "Alabama"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "smockled",
+        "url": "https://twitter.com/smockled"
+      },
+      {
+        "network": "GitHub",
+        "username": "smockle",
+        "url": "https://github.com/smockle"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "smockle",
+        "url": "https://www.linkedin.com/in/smockle"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Xamarin",
+      "position": "Full Stack Developer",
+      "website": "https://xamarin.com",
+      "startDate": "2014-03-17",
+      "summary": "Xamarin provides development tools to build and test native mobile apps, including Xamarin Platform, Xamarin Test Cloud, & Xamarin Insights.",
+      "highlights": [
+        "Designed and constructed a conference website used daily by more than 1200 attendees.",
+        "Managed a live video feed viewed in 90 countries.",
+        "Presented sortable and filterable information for more than 225 consulting partners.",
+        "Launched a student promotion which brought in several thousand new leads.",
+        "Provided lead tracking insights to support the sales team as they exceeded all 2014 sales goals.",
+        "Assessed polyfills and frameworks to determine the future of the technology stack.",
+        "Implemented SEO best practices."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Auburn University",
+      "area": "Software Engineering",
+      "studyType": "Bachelor",
+      "startDate": "2010-08-18",
+      "endDate": "2014-12-13",
+      "gpa": "3.25",
+      "courses": [
+        "DB1101 - Basic SQL",
+        "CS2011 - Java Introduction"
+      ]
+    }
+  ],
+  "publications": [
+    {
+      "name": "Video compression for 3d media",
+      "publisher": "Hooli",
+      "releaseDate": "2014-10-01",
+      "website": "http://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)",
+      "summary": "Innovative middle-out compression algorithm that changes the way we store data."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript"
+      ]
+    },
+    {
+      "name": "Compression",
+      "level": "Master",
+      "keywords": [
+        "Mpeg",
+        "MP4",
+        "GIF"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Limited working proficiency"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Erlich Bachman",
+      "reference": "It is my pleasure to recommend Richard, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
+    }
+  ]
+}
