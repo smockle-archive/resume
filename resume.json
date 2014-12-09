@@ -56,18 +56,32 @@
       "endDate": "2014-12-13",
       "gpa": "3.25",
       "courses": [
-        "DB1101 - Basic SQL",
-        "CS2011 - Java Introduction"
+        "COMP 2710 - Software Construction",
+        "COMP 3220 - Principles Of Programming Languages",
+        "COMP 3240 - Discrete Structures",
+        "COMP 3270 - Introduction To Algorithms",
+        "COMP 3350 - Computer Organization And Assembly Language Programming",
+        "COMP 3500 - Introduction To Operating Systems",
+        "COMP 3700 - Software Modeling And Design",
+        "COMP 3710 - Wireless Software Engineering",
+        "COMP 4300 - Computer Architecture",
+        "COMP 4320 - Introduction To Computer Networks",
+        "COMP 4730 - Computer Ethics",
+        "COMP 4970 - Introduction To Game Design and Development",
+        "COMP 5600 - Artificial Intelligence",
+        "COMP 5700 - Software Process",
+        "COMP 5710 - Software Quality Assurance",
+        "MATH 2630 - Calculus III",
+        "MATH 2650 - Linear Differential Equations",
+        "MATH 2660 - Topics In Linear Algebra",
+        "ELEC 2200 - Digital Logic Circuits",
+        "ECON 2027 - Honors Principles of Microeconomics",
+        "FLSP 2020 - Intermediate Spanish II",
+        "FLSP 3010 - Spanish Phonetics",
+        "FLSP 3130 - Topics In Hispanic Film",
+        "STAT 3600 - Probability And Statistics I",
+        "PHYS 1610 - Engineering Physics II"
       ]
-    }
-  ],
-  "publications": [
-    {
-      "name": "Video compression for 3d media",
-      "publisher": "Hooli",
-      "releaseDate": "2014-10-01",
-      "website": "http://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)",
-      "summary": "Innovative middle-out compression algorithm that changes the way we store data."
     }
   ],
   "skills": [
@@ -107,12 +121,6 @@
         "Ferrets",
         "Unicorns"
       ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Erlich Bachman",
-      "reference": "It is my pleasure to recommend Richard, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
     }
   ]
 }
