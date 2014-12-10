@@ -176,14 +176,21 @@
       ]
     },
     {
-      "name": "Deployments & Analysis",
+      "name": "Infrastructure",
       "level": "Intermediate",
       "keywords": [
         "Git",
         "GitHub",
         "Heroku",
         "Amazon S3",
-        "Amazon CloudFrount",
+        "Amazon CloudFrount"
+      ]
+    },
+    {
+      "name": "Testing & Analysis",
+      "level": "Intermediate",
+      "keywords": [
+        "Continuous Integration",
         "Travis CI",
         "BrowserStack",
         "New Relic",
