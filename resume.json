@@ -166,28 +166,29 @@
   ],
   "interests": [
     {
-      "name": "Adjusting kerning of neo-grotesque typefaces"
+      "name": "Cuisine",
+      "keywords": [
+        "savoring smoky whisky",
+        "collecting salt",
+        "detecting hints of plum in wine",
+        "creating Jackson Pollock-esque latte art"
+      ]
     },
     {
-      "name": "Savoring smoky whisky"
+      "name": "Adventure",
+      "keywords": [
+        "geocaching in the great outdoors",
+        "running somewhere new",
+        "urban exploration with abandon"
+      ]
     },
     {
-      "name": "Creating Jackson Pollock-esque latte art"
-    },
-    {
-      "name": "Geocaching in the great outdoors"
-    },
-    {
-      "name": "Running somewhere new"
-    },
-    {
-      "name": "Reading the book \"I Want My Hat Back\""
-    },
-    {
-      "name": "Detecting hints of plum in wine"
-    },
-    {
-      "name": "Engaging with brands on Twitter"
+      "name": "Creativity",
+      "keywords": [
+        "adjusting kerning of neo-grotesque typefaces",
+        "reading \"I Want My Hat Back\" in a local bookstore",
+        "engaging with brands on Twitter"
+      ]
     }
   ]
 }
