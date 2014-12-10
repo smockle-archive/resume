@@ -220,6 +220,14 @@
   ],
   "interests": [
     {
+      "name": "Creativity",
+      "keywords": [
+        "adjusting kerning of neo-grotesque typefaces",
+        "reading \"I Want My Hat Back\" in a local bookstore",
+        "engaging with brands on Twitter"
+      ]
+    },
+    {
       "name": "Cuisine",
       "keywords": [
         "savoring smoky whisky",
@@ -234,14 +242,6 @@
         "geocaching in the great outdoors",
         "running somewhere new",
         "urban exploration with abandon"
-      ]
-    },
-    {
-      "name": "Creativity",
-      "keywords": [
-        "adjusting kerning of neo-grotesque typefaces",
-        "reading \"I Want My Hat Back\" in a local bookstore",
-        "engaging with brands on Twitter"
       ]
     }
   ]
