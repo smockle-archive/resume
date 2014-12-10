@@ -50,6 +50,61 @@
         "Assessed polyfills and frameworks to determine the future of the technology stack.",
         "Implemented SEO best practices."
       ]
+    },
+    {
+      "company": "Granade Technology Solutions",
+      "position": "Web Developer",
+      "website": "http://www.granade.co",
+      "startDate": "2014-01",
+      "endDate": "2014-05",
+      "summary": "Granade Technology Solutions, a Microsoft Gold Certified Partner, provides IT Support and IT consulting for all of your technology needs.",
+      "highlights": [
+        "Migrated client sites to the C# DNN framework."
+      ]
+    },
+    {
+      "company": "Auburn University Career Center",
+      "position": "Web Developer",
+      "website": "http://auburn.edu/career/",
+      "startDate": "2014-01",
+      "endDate": "2014-05",
+      "highlights": [
+        "Designed and developed repsonsive websites with the Laravel MVC framework."
+      ]
+    },
+    {
+      "company": "ACLU of Alabama",
+      "position": "Web Developer (Freelance)",
+      "website": "http://aclualabama.org/wp/",
+      "startDate": "2013-08",
+      "endDate": "2013-12",
+      "summary": "The ACLU is our nation's guardian of liberty, working daily in courts, legislatures and communities to defend and preserve the individual rights and liberties that the Constitution and laws of the United States guarantee everyone in this country.",
+      "highlights": [
+        "Designed, developed and published a WordPress-based website."
+      ]
+    },
+    {
+      "company": "TGL Communications",
+      "position": "Application Developer (Freelance)",
+      "startDate": "2013-06",
+      "endDate": "2013-08",
+      "highlights": [
+        "Designed an inventory management web application.",
+        "Assessed feasibility of integrating Delphi applications with a new production database system."
+      ]
+    },
+    {
+      "company": "Auburn University OIT",
+      "position": "Web Developer",
+      "website": "http://www.auburn.edu/oit/",
+      "startDate": "2011-08",
+      "endDate": "2013-12",
+      "summary": "OIT provides centralized computing services and resources to the Auburn University community.",
+      "highlights": [
+        "Met with clients to draft project specifications.",
+        "Developed websites, for Auburn University and others, using the ASP.NET MVC framework.",
+        "Designed university-wide templates and user authetication components."
+      ]
     }
   ],
   "education": [
