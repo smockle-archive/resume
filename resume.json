@@ -39,7 +39,24 @@
       "company": "Xamarin",
       "position": "Full Stack Developer",
       "website": "https://xamarin.com",
+      "startDate": "2014-01-05",
+      "summary": "Xamarin provides development tools to build and test native mobile apps, including Xamarin Platform, Xamarin Test Cloud, & Xamarin Insights.",
+      "highlights": [
+        "Converted main Xamarin website from ASP.NET MVC to Ember + Node.js.",
+        "Restructured web properties to run in Docker containers.",
+        "Performed A/B tests on product landing pages resulting in a 12% increase in conversions.",
+        "Wrote 200 unit and acceptance tests and configured them to run in continuous integration.",
+        "Created a party registration form which attracted more than 1400 attendees.",
+        "Converted 20000 lines of Less to Sass.",
+        "Set up a new WordPress blog to track product releases."
+      ]
+    },
+    {
+      "company": "Xamarin",
+      "position": "Web Developer (Contractor)",
+      "website": "https://xamarin.com",
       "startDate": "2014-03-17",
+      "endDate": "2015-01-04",
       "summary": "Xamarin provides development tools to build and test native mobile apps, including Xamarin Platform, Xamarin Test Cloud, & Xamarin Insights.",
       "highlights": [
         "Designed and constructed a conference website used daily by more than 1200 attendees.",
