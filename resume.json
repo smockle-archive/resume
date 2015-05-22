@@ -178,11 +178,9 @@
       "level": "Intermediate",
       "keywords": [
         "Git",
-        "Docker Compose & Machine",
-        "Amazon EC2, S3, CloudFront & SES",
-        "Azure Web Apps",
-        "DNS Record Management",
-        "SPF, DKIM & DMARC",
+        "Docker",
+        "Amazon Web Services",
+        "DNS Records",
         "SSL Certificates"
       ]
     },
@@ -191,12 +189,10 @@
       "level": "Intermediate",
       "keywords": [
         "Continuous Integration",
-        "Mocha & Chai",
-        "Travis CI",
+        "Mocha",
         "BrowserStack",
         "New Relic",
-        "Google Analytics",
-        "Segment"
+        "Google Analytics"
       ]
     },
     {
