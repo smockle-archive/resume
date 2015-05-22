@@ -142,10 +142,8 @@
         "HTML5",
         "CSS",
         "Sass",
-        "Less",
         "JavaScript",
         "EcmaScript 6/7",
-        "jQuery",
         "Responsive Web Design",
         "Responsive Images"
       ]
@@ -155,14 +153,14 @@
       "level": "Advanced",
       "keywords": [
         "Node.js",
+        "Nginx",
         "Express",
-        "Grunt",
         "Broccoli",
         "Ember",
+        "React",
         "Ghost",
-        "ASP.NET MVC",
-        "Ruby on Rails",
-        "PostgreSQL"
+        "PostgreSQL",
+        "MongoDB"
       ]
     },
     {
@@ -180,15 +178,11 @@
       "level": "Intermediate",
       "keywords": [
         "Git",
-        "GitHub",
-        "Docker",
-        "Docker Compose",
-        "Docker Machine",
-        "Amazon EC2",
-        "Amazon S3",
-        "Amazon SES",
+        "Docker Compose & Machine",
+        "Amazon EC2, S3, CloudFront & SES",
+        "Azure Web Apps",
         "DNS Record Management",
-        "Mail Server Security",
+        "SPF, DKIM & DMARC",
         "SSL Certificates"
       ]
     },
@@ -197,6 +191,7 @@
       "level": "Intermediate",
       "keywords": [
         "Continuous Integration",
+        "Mocha & Chai",
         "Travis CI",
         "BrowserStack",
         "New Relic",
