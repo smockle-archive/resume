@@ -144,8 +144,10 @@
         "Sass",
         "JavaScript",
         "EcmaScript 6/7",
-        "Responsive Web Design",
-        "Responsive Images"
+        "Ember",
+        "React",
+        "Responsive Images",
+        "Web Components"
       ]
     },
     {
@@ -156,21 +158,10 @@
         "Nginx",
         "Express",
         "Broccoli",
-        "Ember",
-        "React",
         "Ghost",
         "PostgreSQL",
-        "MongoDB"
-      ]
-    },
-    {
-      "name": "Design",
-      "level": "Intermediate",
-      "keywords": [
-        "Photoshop",
-        "Illustrator",
-        "Sketch",
-        "Typography"
+        "MongoDB",
+        "Web Workers"
       ]
     },
     {
@@ -193,6 +184,16 @@
         "BrowserStack",
         "New Relic",
         "Google Analytics"
+      ]
+    },
+    {
+      "name": "Design",
+      "level": "Intermediate",
+      "keywords": [
+        "Photoshop",
+        "Illustrator",
+        "Sketch",
+        "Typography"
       ]
     },
     {
