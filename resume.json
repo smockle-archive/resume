@@ -181,9 +181,15 @@
       "keywords": [
         "Git",
         "GitHub",
-        "Heroku",
+        "Docker",
+        "Docker Compose",
+        "Docker Machine",
+        "Amazon EC2",
         "Amazon S3",
-        "Amazon CloudFrount"
+        "Amazon SES",
+        "DNS Record Management",
+        "Mail Server Security",
+        "SSL Certificates"
       ]
     },
     {
