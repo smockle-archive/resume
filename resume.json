@@ -54,10 +54,8 @@
     {
       "company": "Xamarin",
       "position": "Web Developer (Contractor)",
-      "website": "https://xamarin.com",
       "startDate": "2014-03-17",
       "endDate": "2015-01-04",
-      "summary": "Xamarin provides development tools to build and test native mobile apps, including Xamarin Platform, Xamarin Test Cloud, & Xamarin Insights.",
       "highlights": [
         "Designed and constructed a conference website used daily by more than 1200 attendees.",
         "Managed a live video feed viewed in 90 countries.",
