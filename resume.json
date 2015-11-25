@@ -5,7 +5,7 @@
     "picture": "http://www.gravatar.com/avatar/08e44425150feee3130148daac403f15.jpg?s=512",
     "email": "clay@smockle.com",
     "website": "http://smockle.com",
-    "summary": "Building the Internet–also practicing yoga, waiting for coffee grounds to bloom, jamming to indie folk, critiquing postmodern literature and occasionally jogging. Someday I hope to speak at conferences and write web standards. I love creating with new technologies and with diverse teams.",
+    "summary": "I build the Internet. My ideal workplace lets me take ownership in my work, learn bleeding-edge technologies, help people connect and grow, and build things that endure. Diversity, accessibility and empathy are very important to me. I’ll continue developing—learning new skills while honing existing ones—and I’ll share everything I learn. He/Him.",
     "location": {
       "city": "San Francisco",
       "countryCode": "US",
@@ -39,42 +39,19 @@
       "company": "Xamarin",
       "position": "Full Stack Developer",
       "website": "https://xamarin.com",
-      "startDate": "2014-01-05",
+      "startDate": "2014-03-17",
       "summary": "Xamarin provides development tools to build and test native mobile apps, including Xamarin Platform, Xamarin Test Cloud, & Xamarin Insights.",
       "highlights": [
-        "Converted main Xamarin website from ASP.NET MVC to Ember + Node.js.",
-        "Restructured web properties to run in Docker containers.",
+        "Wrote 190,000 lines of production code on xamarin.com.",
+        "Converted an additional 20,000 lines of Less to Sass.",
+        "Wrote 200 unit and acceptance tests.",
+        "Designed, built and maintained a conference website used daily by 1200 attendees.",
+        "Created a party registration form which attracted 1400 attendees.",
         "Performed A/B tests on product landing pages resulting in a 12% increase in conversions.",
-        "Wrote 200 unit and acceptance tests and configured them to run in continuous integration.",
-        "Created a party registration form which attracted more than 1400 attendees.",
-        "Converted 20000 lines of Less to Sass.",
-        "Set up a new WordPress blog to track product releases."
-      ]
-    },
-    {
-      "company": "Xamarin",
-      "position": "Web Developer (Contractor)",
-      "startDate": "2014-03-17",
-      "endDate": "2015-01-04",
-      "highlights": [
-        "Designed and constructed a conference website used daily by more than 1200 attendees.",
         "Managed a live video feed viewed in 90 countries.",
-        "Presented sortable and filterable information for more than 225 consulting partners.",
-        "Launched a student promotion which brought in several thousand new leads.",
-        "Provided lead tracking insights to support the sales team as they exceeded all 2014 sales goals.",
-        "Assessed polyfills and frameworks to determine the future of the technology stack.",
-        "Implemented SEO best practices."
-      ]
-    },
-    {
-      "company": "Granade Technology Solutions",
-      "position": "Web Developer",
-      "website": "http://www.granade.co",
-      "startDate": "2014-01-20",
-      "endDate": "2014-05-02",
-      "summary": "Granade Technology Solutions, a Microsoft Gold Certified Partner, provides IT Support and IT consulting for all of your technology needs.",
-      "highlights": [
-        "Migrated client sites to the C# DNN framework."
+        "Presented sortable and filterable information for 320 consulting partners.",
+        "Shipped 8 pages in the Visual Studio IDE.",
+        "Increased Qualys SSL Labs score from a D to an A+."
       ]
     },
     {
@@ -84,7 +61,8 @@
       "startDate": "2014-01-13",
       "endDate": "2014-05-02",
       "highlights": [
-        "Designed and developed repsonsive websites with the Laravel MVC framework."
+        "Designed and developed responsive websites with the Laravel MVC framework.",
+        "Integrated feeds from Twitter, the University Calendar and the Career Center Blog."
       ]
     },
     {
@@ -93,19 +71,10 @@
       "website": "http://aclualabama.org/wp/",
       "startDate": "2013-08-05",
       "endDate": "2013-12-16",
-      "summary": "The ACLU is our nation's guardian of liberty, working daily in courts, legislatures and communities to defend and preserve the individual rights and liberties that the Constitution and laws of the United States guarantee everyone in this country.",
+      "summary": "The ACLU is our nation's guardian of liberty, working daily in courts, legislatures and communities to defend and preserve the individual rights and liberties.",
       "highlights": [
-        "Designed, developed and published a WordPress-based website."
-      ]
-    },
-    {
-      "company": "TGL Communications",
-      "position": "Application Developer (Freelance)",
-      "startDate": "2013-06-03",
-      "endDate": "2013-08-19",
-      "highlights": [
-        "Designed an inventory management web application.",
-        "Assessed feasibility of integrating Delphi applications with a new production database system."
+        "Designed, developed and published a WordPress-based website.",
+        "Delivered comprehensive documentation."
       ]
     },
     {
@@ -114,11 +83,12 @@
       "website": "http://www.auburn.edu/oit/",
       "startDate": "2011-08-22",
       "endDate": "2013-12-20",
-      "summary": "OIT provides centralized computing services and resources to the Auburn University community.",
+      "summary": "The Auburn University O!ce of Information Technology provides centralized computing services and resources to the Auburn University community.",
       "highlights": [
-        "Met with clients to draft project specifications.",
-        "Developed websites, for Auburn University and others, using the ASP.NET MVC framework.",
-        "Designed university-wide templates and user authetication components."
+        "Maintained the Auburn University homepage.",
+        "Created a science education website providing resources to twelve universities and every high school in Alabama.",
+        "Designed the main university portal accessed by 24,000 students and faculty members.",
+        "Refreshed the primary Auburn University site-wide template."
       ]
     }
   ],
